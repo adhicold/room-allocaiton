@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: roomfinder
+Version: 1.0.0
+Summary: Constraint-based campus room recommender, clash detector and demand forecaster
+Requires-Python: >=3.10
+Requires-Dist: pandas>=2.0
+Requires-Dist: numpy>=1.24
+Requires-Dist: scipy>=1.10
+Requires-Dist: scikit-learn>=1.3
+Provides-Extra: app
+Requires-Dist: streamlit>=1.30; extra == "app"
+Requires-Dist: plotly>=5.18; extra == "app"
+Provides-Extra: dev
+Requires-Dist: pytest>=7; extra == "dev"
+Requires-Dist: ruff>=0.4; extra == "dev"

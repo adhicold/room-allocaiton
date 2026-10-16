@@ -1,0 +1,2 @@
+[console_scripts]
+roomfinder = roomfinder.cli:main

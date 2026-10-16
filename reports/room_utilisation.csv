@@ -1,0 +1,121 @@
+room_id,building,room_type,capacity,utilisation,double_booked_slots,underused,cluster
+R001,Central,Classroom,56,0.7166666666666667,22,False,0
+R002,West,Lab,57,0.5333333333333333,12,False,0
+R003,North,Seminar,137,0.6166666666666667,18,False,2
+R004,East,Classroom,87,0.6666666666666666,16,False,0
+R005,East,Study room,66,0.6666666666666666,20,False,0
+R006,West,Lab,165,0.5833333333333334,14,False,3
+R007,North,Classroom,142,0.6833333333333333,20,False,2
+R008,Central,Study room,102,0.5166666666666667,14,False,3
+R009,Central,Auditorium,36,0.5666666666666667,19,False,1
+R010,North,Seminar,41,0.7,28,False,0
+R011,West,Classroom,67,0.6833333333333333,24,False,1
+R012,North,Classroom,19,0.6333333333333333,19,False,1
+R013,Central,Classroom,164,0.6,16,False,2
+R014,North,Classroom,147,0.75,15,False,1
+R015,South,Classroom,61,0.6666666666666666,13,False,0
+R016,East,Seminar,18,0.6666666666666666,15,False,0
+R017,West,Seminar,27,0.6166666666666667,15,False,1
+R018,East,Seminar,125,0.5666666666666667,16,False,3
+R019,South,Classroom,60,0.5833333333333334,12,False,0
+R020,South,Classroom,90,0.5666666666666667,20,False,2
+R021,Central,Classroom,109,0.6166666666666667,12,False,2
+R022,East,Classroom,158,0.6833333333333333,18,False,2
+R023,East,Classroom,179,0.43333333333333335,6,False,3
+R024,West,Study room,47,0.5833333333333334,16,False,0
+R025,North,Classroom,122,0.65,22,False,3
+R026,South,Seminar,166,0.7,19,False,2
+R027,East,Lab,73,0.6666666666666666,18,False,1
+R028,West,Lab,44,0.65,18,False,3
+R029,North,Study room,38,0.7166666666666667,20,False,1
+R030,West,Lab,61,0.5166666666666667,10,False,3
+R031,South,Lab,111,0.5833333333333334,18,False,2
+R032,Central,Study room,123,0.5666666666666667,13,False,2
+R033,South,Lab,123,0.6833333333333333,19,False,2
+R034,East,Classroom,108,0.6,17,False,2
+R035,North,Classroom,130,0.5666666666666667,17,False,0
+R036,East,Study room,90,0.6166666666666667,17,False,0
+R037,North,Classroom,106,0.6666666666666666,20,False,1
+R038,North,Lab,139,0.5666666666666667,12,False,2
+R039,South,Classroom,166,0.6,10,False,3
+R040,Central,Classroom,47,0.6166666666666667,13,False,1
+R041,North,Study room,145,0.5333333333333333,12,False,2
+R042,South,Lab,82,0.6666666666666666,18,False,1
+R043,North,Lab,82,0.75,18,False,1
+R044,West,Lab,168,0.7333333333333333,23,False,2
+R045,North,Lab,176,0.6,17,False,2
+R046,West,Classroom,129,0.5333333333333333,15,False,3
+R047,East,Seminar,170,0.5166666666666667,13,False,2
+R048,East,Lab,69,0.6,17,False,0
+R049,Central,Classroom,136,0.5,16,False,2
+R050,South,Seminar,175,0.6,19,False,2
+R051,East,Classroom,149,0.65,10,False,2
+R052,South,Seminar,15,0.6666666666666666,20,False,1
+R053,East,Classroom,75,0.65,24,False,1
+R054,East,Classroom,27,0.6,10,False,1
+R055,Central,Seminar,49,0.6833333333333333,18,False,0
+R056,West,Auditorium,96,0.5,14,False,0
+R057,East,Classroom,171,0.6666666666666666,24,False,2
+R058,South,Lab,22,0.6333333333333333,16,False,0
+R059,West,Classroom,23,0.45,13,False,0
+R060,South,Classroom,126,0.5833333333333334,11,False,1
+R061,East,Classroom,84,0.6833333333333333,19,False,1
+R062,North,Study room,124,0.5833333333333334,16,False,3
+R063,Central,Classroom,157,0.6,16,False,2
+R064,South,Study room,25,0.65,15,False,1
+R065,West,Lab,29,0.5666666666666667,12,False,0
+R066,North,Lab,77,0.6333333333333333,17,False,0
+R067,East,Classroom,56,0.4666666666666667,17,False,3
+R068,Central,Seminar,90,0.5833333333333334,19,False,2
+R069,North,Study room,33,0.6666666666666666,10,False,3
+R070,West,Classroom,46,0.55,20,False,1
+R071,West,Classroom,25,0.7166666666666667,13,False,1
+R072,West,Seminar,47,0.5166666666666667,13,False,0
+R073,Central,Classroom,57,0.6333333333333333,18,False,0
+R074,East,Classroom,139,0.7166666666666667,19,False,3
+R075,East,Classroom,27,0.48333333333333334,9,False,3
+R076,South,Classroom,41,0.6333333333333333,14,False,1
+R077,North,Study room,37,0.6666666666666666,18,False,1
+R078,Central,Classroom,162,0.7,20,False,3
+R079,South,Seminar,108,0.5666666666666667,12,False,2
+R080,East,Classroom,175,0.5166666666666667,14,False,2
+R081,South,Classroom,25,0.5,12,False,0
+R082,South,Classroom,114,0.6,14,False,3
+R083,North,Lab,66,0.55,13,False,0
+R084,North,Seminar,33,0.6166666666666667,21,False,1
+R085,North,Seminar,83,0.6833333333333333,16,False,1
+R086,West,Study room,173,0.6,16,False,2
+R087,South,Classroom,134,0.5,12,False,2
+R088,West,Classroom,115,0.5833333333333334,17,False,3
+R089,Central,Classroom,55,0.6,18,False,3
+R090,Central,Auditorium,55,0.7333333333333333,19,False,1
+R091,North,Classroom,166,0.6666666666666666,18,False,2
+R092,East,Seminar,143,0.65,17,False,2
+R093,South,Classroom,134,0.5666666666666667,15,False,2
+R094,North,Lab,129,0.6666666666666666,19,False,0
+R095,East,Classroom,124,0.5833333333333334,10,False,2
+R096,South,Lab,150,0.6166666666666667,15,False,2
+R097,West,Lab,52,0.7,22,False,0
+R098,East,Classroom,161,0.65,12,False,3
+R099,West,Classroom,21,0.7333333333333333,20,False,1
+R100,East,Classroom,169,0.5666666666666667,19,False,2
+R101,Central,Classroom,174,0.65,21,False,2
+R102,South,Auditorium,90,0.6333333333333333,18,False,1
+R103,South,Classroom,51,0.6,14,False,0
+R104,South,Study room,164,0.5166666666666667,10,False,2
+R105,East,Classroom,17,0.5333333333333333,12,False,3
+R106,East,Lab,49,0.7,19,False,1
+R107,North,Classroom,45,0.65,16,False,1
+R108,West,Seminar,62,0.6,18,False,1
+R109,East,Classroom,103,0.6166666666666667,15,False,1
+R110,West,Lab,85,0.75,25,False,0
+R111,West,Classroom,164,0.65,15,False,2
+R112,West,Lab,30,0.5666666666666667,12,False,1
+R113,South,Study room,78,0.65,11,False,1
+R114,East,Lab,141,0.5666666666666667,16,False,3
+R115,West,Classroom,79,0.5833333333333334,13,False,0
+R116,Central,Classroom,75,0.6,16,False,1
+R117,Central,Lab,100,0.5833333333333334,17,False,0
+R118,South,Classroom,85,0.65,18,False,1
+R119,East,Classroom,71,0.6166666666666667,19,False,1
+R120,Central,Seminar,119,0.55,15,False,2
